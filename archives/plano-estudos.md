@@ -2,8 +2,8 @@
 # Plano de Estudos
 
 ### Esse guia usa como referências os artigos: 
-#### - [Functional Programming Study Plan, by Eric Douglas](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/); 
-#### - [Functional JavaScript, some concepts, by David Rey](https://dreyacosta.com/functional-javascript/)
+- [Functional Programming Study Plan, by Eric Douglas](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/); 
+- [Functional JavaScript, some concepts, by David Rey](https://dreyacosta.com/functional-javascript/)
 
 - Conceitos fundamentais
     - Dados imutáveis
