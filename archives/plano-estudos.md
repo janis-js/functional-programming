@@ -1,17 +1,18 @@
-# Plano de Estudos ~ Programação Funcional
-### @@tradução em desenvolvimento 
+### @ Em desenvolvimento 
+# Plano de Estudos
 
-### Esse artigo foi escrito originalmente por Eric Douglas, [clique se deseja ler na integra](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan);
+### Esse guia usa como referências os artigos: [Functional Programming Study Plan, by Eric Douglas](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/); [Functional JavaScript, some concepts, by David Rey](https://dreyacosta.com/functional-javascript/)
 
-Esse guia é dividido através de níveis tendo a finalidade apenas de ajudá-lo a se guiá-lo nessa jornada da programação funcional.
-
-## Iniciante
-- Conceitos
+- Conceitos fundamentais
     - Dados imutáveis
-    - Funções de segunda ordem
+    - First-class
+    - Funções de alta ordem
     - Desestruturação
     - Composição da função
     - Lambdas/Funções anônimas
+    - Composição de funções
+    - Recursão profunda
+    - Abstração de funçõess
 
 - Habilidades
     - Uso de funções de segunda ordem(map, filter, reduce) com imutabilidade
