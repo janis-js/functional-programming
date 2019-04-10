@@ -1,6 +1,8 @@
 ### @ Em desenvolvimento 
 # Programação Funcional
-### Esse artigo usa como referência: [Functional JavaScript, some concepts, by David Rey](https://dreyacosta.com/functional-javascript/); [Functional Programming Principles in Javascript, by Leandro TK](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f)
+### Esse artigo usa como referência: 
+#### - [Functional JavaScript, some concepts, by David Rey](https://dreyacosta.com/functional-javascript/); 
+#### - [Functional Programming Principles in Javascript, by Leandro TK](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f)
 
 ## O Conceito 
 Atualmente a programação funcional é um dos tópicos mais em alta no desenvolvimento de software. Javascript como uma linguagem flexivel, permite que nós programamos dessa forma. Você pode acompanhar os principais conceitos de programação funcional em javascript [aqui](/archives/plano-estudos.md).
