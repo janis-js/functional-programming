@@ -1,2 +1,1 @@
-# functional-programming
-📘 estudos referentes a programação funcional
+# 📘 Programação Funcional em Javascript
