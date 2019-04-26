@@ -3,9 +3,19 @@
 ### Esse artigo usa como referência: 
 - [Functional JavaScript, some concepts, by David Rey](https://dreyacosta.com/functional-javascript/); 
 - [Functional Programming Principles in Javascript, by Leandro TK](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f)
+- [Functional Programming For Beginners With JavaScript, by James Moore](https://www.udemy.com/functional-programming-for-beginners-with-javascript/)
 
-## O Conceito 
-Atualmente a programação funcional é um dos tópicos mais em alta no desenvolvimento de software. Javascript como uma linguagem flexivel, permite que nós programamos dessa forma. Você pode acompanhar os principais conceitos de programação funcional em javascript [aqui](/archives/plano-estudos.md).
+## Conceito 
+Atualmente a programação funcional é um dos tópicos mais em alta no desenvolvimento de software. Javascript como uma linguagem flexivel, permite que programamos dessa forma. Você pode acompanhar os principais conceitos de programação funcional em javascript [aqui](/archives/plano-estudos.md).
+
+### Imutabilidade
+A imutabilidade é o conceito dados que não mudam após serem criados. Um exemplo de dado imutável no javascript é uma string. Quando você cria uma string em javascript ela não terá mais mudanças, você até pode usar a string para criar outras string, mas a original não terá mudanças.
+
+```
+    var test = 'testing...';
+    test += 'test';
+    console.log(test); // testing...test
+```
 
 ### First-class (funções de primeira classe)
 O conceito de first-class diz que qualquer coisa tem um valor. Por exemplo:
