@@ -5,8 +5,8 @@
 - [Functional Programming Study Plan, by Eric Douglas](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/); 
 - [Functional JavaScript, some concepts, by David Rey](https://dreyacosta.com/functional-javascript/)
 
-- Conceitos fundamentais
-    - Dados imutáveis
+- [Conceitos fundamentais](https://github.com/janis-js/functional-programming/blob/master/archives/conceito.md)
+    - [Dados imutáveis](https://github.com/janis-js/functional-programming/blob/master/archives/imutabilidade.md)
     - First-class
     - Funções de alta ordem
     - Desestruturação
